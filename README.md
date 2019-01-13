@@ -1,4 +1,4 @@
-# Battle-Transitions
+# Battle Transitions
 Initial Transitions built using Shader Graph. Patterns and baseline created by Daniel Moran.
 
 <p align="center"> 
